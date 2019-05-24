@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.task {
+  margin: 5px 5px;
+  padding: 5px;
+  height: 200px;
+  width: 200px;
+  border: 1px #ccc solid;
+}
+.form .inpOne,
+.form .inpTwo {
+margin-top: 5px;
+margin-bottom: 5px;
+}
+label{
+  font-weight: bold;
+}
+
+.result{
+  margin: 5px 5px;
+  padding: 5px;
+  height: 100px;
+  width: 200px;
+  border: 1px #ccc solid;
+}
+.result button{
+  background: blue;
+  border: 1px blue solid;
+  border-radius: 4px;
+  color: white;
+  width: 50px;
+  height: 30px;
+  float: right;
+}

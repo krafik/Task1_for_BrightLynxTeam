@@ -1,1 +1,2 @@
-# Task1_for_BrightLynxTeam
+# Задание №1 для компании Bright Lynx Team
+Главный файл `index.html`
